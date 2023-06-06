@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1gd7NVFgpaGyJuJdUrkSYPLZJW/A+1BqwKvazsZHeMLxipAfhathaZAPX6g6rLS9/EkWu7I2SHEALpaGMAUgDw==",
+  "dgSpecHash": "s4lwuQuuzPQC8JQWrP/+e27F/rz2c7S1lMeQIEH6V32b2wfwTRpGHOr792vHWmOejGm7btUQQN8bO8bCG7AmRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SaurabhBagh\\source\\repos\\my-web-app\\my-web-app\\my-web-app.csproj",
   "expectedPackageFiles": [
@@ -67,6 +67,7 @@
     "C:\\Users\\SaurabhBagh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\SaurabhBagh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\SaurabhBagh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SaurabhBagh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\SaurabhBagh\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\SaurabhBagh\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.13\\microsoft.visualstudio.web.codegeneration.6.0.13.nupkg.sha512",
     "C:\\Users\\SaurabhBagh\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.13\\microsoft.visualstudio.web.codegeneration.core.6.0.13.nupkg.sha512",
